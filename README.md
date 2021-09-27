@@ -1,6 +1,28 @@
-# Getting Started with Create React App
+# Poll App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Just a simple poll app.
+
+# Live Demo
+
+> [Poll App](https://6152276ca6dec0973dc4d2f9--admiring-visvesvaraya-894654.netlify.app/)
+
+## Getting Started
+
+### Up development server
+
+##### Run the following commands
+
+> `npm install` > `npm start`
+
+### Stack
+
+- React.
+- Typescript.
+- Material UI.
+- Styled Components.
+- React-charts.
+- Immer
+- Lint and formatting (ESLint + Airbnb + Prettier).
 
 ## Available Scripts
 
